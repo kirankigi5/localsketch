@@ -1,0 +1,10 @@
+{
+  "name": "my-signaling-server",
+  "scripts": {
+    "start": "PORT=10000 npx y-webrtc"
+  },
+  "dependencies": {
+    "y-webrtc": "^10.3.0",
+    "yjs": "^13.6.30"
+  }
+}
